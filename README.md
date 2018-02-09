@@ -11,7 +11,7 @@ NOTE: YOU NEED TO HAVE NODE.JS INSTALLED TO RUN THIS.
 ## Installing and starting
 ```
 $ npm install --global gatsby-cli
-$ git clone https://github.com/Cybros/CYBLOG.git
+$ git clone https://github.com/Cybros-LNMIIT/CYBLOG.git
 $ cd CYBLOG
 $ npm install
 $ gatsby develop
